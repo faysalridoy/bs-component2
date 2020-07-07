@@ -1,0 +1,54 @@
+body{
+    position: relative;
+}
+
+nav ul li a{
+    font-weight: 600;
+}
+.banner{
+    background-image: url(../Images/asphalt-dark-dawn-endless-531321.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.cus-content{
+    padding: 200px;
+}
+h5{
+    font-size: 36px;
+    padding-top: 20px;
+}
+p{
+    font-size: 20px;
+}
+.carousel-indicators{
+    
+}
+.carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    background-color: rgba(20, 9, 14, 0.5);
+}
+
+.box{
+    min-height: 40px;
+    background-color: peru;
+    color: white;
+    margin-bottom: 15px;
+    
+    
+}
+.bdr{
+    border: 1px solid red;
+}
+.marg{
+    margin-bottom: 10px;
+}
+.hig{
+    min-height: 80px;
+}
+.brd-radius{
+    border-radius: 50px;
+    background-color: #c3c3c3;
+}
